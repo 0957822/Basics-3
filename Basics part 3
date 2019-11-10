@@ -7,16 +7,16 @@
 <h2>Today I have learned about Formatting</h2>
 <h3><i>Here are some formatting tags.</i></h3>
 <p> 
-<b> - Bold text <br>
-<strong> - Important text<br>
-<i> - Italic text<br>
-<em> - Emphasized text<br>
-<mark> - Marked text<br>
-<small> - Small text<br>
-<del> - Deleted text<br>
-<ins> - Inserted text<br>
-<sub> - Subscript text<br>
-<sup> - Superscript text</p>
+<b> - Bold text </b><br>
+<strong> - Important text </strong><br>
+<i> - Italic text</i><br>
+<em> - Emphasized text </em><br>
+<mark> - Marked text</mark><br>
+<small> - Small text</small><br>
+<del> - Deleted text </del><br>
+<ins> - Inserted text</ins><br>
+<sub> - Subscript text</sub><br>
+<sup> - Superscript text </sub></p>
 
 </body>
 </html>
